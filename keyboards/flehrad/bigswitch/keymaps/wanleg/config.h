@@ -39,4 +39,4 @@
 #define QMK_LED B0
 
 // set audio pin
-#define AUDIO_PIN C6
+#define C6_AUDIO
